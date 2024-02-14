@@ -12,7 +12,7 @@
 <br>
 
 🟢[Interests]🟢  
-- Web 2.0 and Web 3.0 Enthusiast!  
+- Web 2.0 Enthusiast!  
 - OpenSource Enthusiast!  
 - System Design (LLD, HLD)!
 
@@ -28,7 +28,6 @@
     ⟫NodeJS  
     ⟫ExpressJS  
     ⟫Web Mechanics  
-    ⟫Networking  
   
   <br>
   
@@ -72,9 +71,9 @@
 <br><br>
 **_Philosophical Code_**:<br>
   while(!Pro){  
-    boolean learn();  
+    learn();  
     codeAndPractice();  
-    collaborateAndMakeProjects();  
+    makeProjects();  
 }
 
 -------------------------------------------🔶_Happy Coding_🔶------------------------------------------------
