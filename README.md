@@ -6,15 +6,16 @@
 
 🎓[About Me]🎓  
 - BTech CSE Graduate'22.
-- Fresher turned Associate Engineer at Nagarro Pvt. Ltd.
 - Java FullStack Engineer.
+- Mtech CSE Postgraduate Student.
 
 <br>
 
-🟢[Interests]🟢  
-- Web 2.0 Enthusiast!  
-- OpenSource Enthusiast!  
+🟢[Interests]🟢   
 - System Design (LLD, HLD)!
+- DSA
+- Machine Learning
+- GenAI
 
 <br>
 
@@ -23,7 +24,7 @@
   💜**Front-End**:  
     ⟫HTML  
     ⟫CSS  
-    ⟫Vanilla JavaScript  
+    ⟫JavaScript  
     ⟫ReactJS  
     ⟫NodeJS  
     ⟫ExpressJS  
@@ -32,7 +33,7 @@
   <br>
   
   💜**Back-End**:  
-    ⟫Core Java  
+    ⟫Java  
     ⟫Maven  
     ⟫JDBC  
     ⟫Hibernate ORM  
