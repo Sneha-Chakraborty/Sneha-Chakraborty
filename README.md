@@ -69,7 +69,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snc-07/)
 
-[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:sneha.chakraborty237@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sneha.chakraborty237@gmail.com)
 
 
 <br><br>
