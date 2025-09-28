@@ -7,14 +7,13 @@
 🎓[About Me]🎓  
 - BTech CSE Graduate'22.
 - Java FullStack Engineer.
-- Mtech CSE Postgraduate Student.
+- Mtech 2026 CSE Postgraduate Student.
 
 <br>
 
 🟢[Interests]🟢   
 - System Design (LLD, HLD)!
 - DSA
-- Machine Learning
 - GenAI
 
 <br>
@@ -26,9 +25,6 @@
     ⟫CSS  
     ⟫JavaScript  
     ⟫ReactJS  
-    ⟫NodeJS  
-    ⟫ExpressJS  
-    ⟫Web Mechanics  
   
   <br>
   
@@ -58,13 +54,8 @@
     ⟫Clean Code
   
   <br>
-  
- 💜**OS**:  
-   ⟫Windows  
-   ⟫Linux  
- 
- <br>
-  
+
+
 📫[Profile Links]📫<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snc-07/)
