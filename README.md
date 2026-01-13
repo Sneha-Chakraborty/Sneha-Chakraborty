@@ -6,7 +6,7 @@
 
 🎓[About Me]🎓  
 - BTech CSE Graduate'22.
-- Java FullStack Engineer.
+- Java FullStack Engineer + Web Development.
 - Mtech 2026 CSE Postgraduate Student.
 
 <br>
@@ -14,7 +14,6 @@
 🟢[Interests]🟢   
 - System Design (LLD, HLD)!
 - DSA
-- GenAI
 
 <br>
 
@@ -24,7 +23,7 @@
     ⟫HTML  
     ⟫CSS  
     ⟫JavaScript  
-    ⟫ReactJS  
+    ⟫React.js  
   
   <br>
   
@@ -34,7 +33,10 @@
     ⟫JDBC  
     ⟫Hibernate ORM  
     ⟫Spring MVC  
-    ⟫Spring Boot  
+    ⟫Spring Boot 
+    ⟫Node.js
+    ⟫Express.js
+    ⟫MongoDB
   
   <br>
   
@@ -45,7 +47,7 @@
   <br>
   
   💜**Version-Control**:  
-    ⟫Git
+    ⟫Git/GitHub
   
   <br>
   
